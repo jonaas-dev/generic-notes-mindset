@@ -33,6 +33,7 @@
   - I’d focus on pace, people, prestige, profit and learning.
 - 🌎 [My 20 Year Career is Technical Debt or Deprecated](./to_generic/20-years-career-deprecated.md)
 - 🌎 [Product vs project](./to_generic/products-vs-projects.md)
+- 🌎 [Non-Technical Tips for Developers to Ease the Stress of Debugging](./to_generic/tips-to-ease-the-stress-of-debugging.md)
 
 ## 📂 Junior/Senior
 
