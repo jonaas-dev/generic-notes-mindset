@@ -65,6 +65,7 @@
 - 🌎 [How to be a -10x Engineer](https://taylor.town/-10x)
 - 🌎 [Software engineering practices for development teams](./to_managment/software-engineering-practices.md)
 - 🌎 [Startup Engineering Hiring Anti-Patterns](./to_managment/startup_enginnering_hiring_anti_patterns.md)
+- 🌎 [How to Give Constructive Feedback That Actually Empowers Others](./to_managment/how-to-give-constructive-feedback.md)
 
 ### ✔ Salary Transparency
 
