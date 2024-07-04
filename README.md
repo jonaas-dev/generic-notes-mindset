@@ -66,7 +66,16 @@
 - 🌎 [Software engineering practices for development teams](./to_managment/software-engineering-practices.md)
 - 🌎 [Startup Engineering Hiring Anti-Patterns](./to_managment/startup_enginnering_hiring_anti_patterns.md)
 - 🌎 [How to Give Constructive Feedback That Actually Empowers Others](./to_managment/how-to-give-constructive-feedback.md)
-
+- 🌎 [So you want to be a Manager](https://www.thecaringtechie.com/p/so-you-want-to-be-a-manager-p2)
+    1. Myth #1: Management is the natural next step for great ICs
+    2. Myth #2: To be a leader, you have to become a manager
+    3. Myth #3: Management guarantees more money and more prestige
+    4. Myth #4: When you’re a manager, you get to call the shots
+    5. Myth #5: Being a manager is easier and requires less work
+    6. Myth #6: It’s easier to get promoted as a manager
+    7. Myth #7: When you’re a manager, you can still be very technical
+    8. Myth #8: When you’re a manager, you don’t have any more technical responsibilities
+- 🌎 [17 REASONS NOT TO BE A MANAGER](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager)
 ### ✔ Salary Transparency
 
 - 🌎 [The scoop salary transparency](https://blog.pragmaticengineer.com/the-scoop-salary-transparency/)
@@ -78,6 +87,7 @@
 - 🌎 [Agile at 20 the failed rebelion](./to_managment/agile-at-20-the-failed-rebellion.md)
 - 🌎 [Doerr's law on product teams](./to_managment/doerr's-law-on-product-teams.md)
 -  🌎[The work is never just "the work"](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
+
 
 ### ✔ Coding Habits
 
