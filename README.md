@@ -77,6 +77,7 @@
 - 🌎 [Employed in tech for years but almost never worked](./to_managment/employed-in-tech-for-years-but-almost-never-worked.md)
 - 🌎 [Agile at 20 the failed rebelion](./to_managment/agile-at-20-the-failed-rebellion.md)
 - 🌎 [Doerr's law on product teams](./to_managment/doerr's-law-on-product-teams.md)
+-  🌎[The work is never just "the work"](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 
 ## 📚 Extra content
 
