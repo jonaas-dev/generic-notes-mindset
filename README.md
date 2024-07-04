@@ -79,6 +79,16 @@
 - 🌎 [Doerr's law on product teams](./to_managment/doerr's-law-on-product-teams.md)
 -  🌎[The work is never just "the work"](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 
+### ✔ Coding Habits
+
+- 🌎 [Healthy Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
+  1. Daily stretches
+  2. Take regular breaks
+  3. Don’t code late at night
+  4. Improve your coding environment
+
+
+
 ## 📚 Extra content
 
 - (management) <https://github.com/charlax/engineering-management>
