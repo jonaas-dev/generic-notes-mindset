@@ -36,8 +36,13 @@
 - 🌎 [Non-Technical Tips for Developers to Ease the Stress of Debugging](./to_generic/tips-to-ease-the-stress-of-debugging.md)
 - 🌎 [How to get comfortable with, and even enjoy, doing tedious work](./to_generic/how-to-get-confortable-doing-tedious-work.md)
 
-## From big companies
+## From big companies
 - 🌎 [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
+
+## Developer productivity
+
+- 🌎 [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
+
 
 ## 📂 Junior/Senior
 
