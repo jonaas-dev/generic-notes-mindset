@@ -42,7 +42,8 @@
 ## Developer productivity
 
 - 🌎 [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
-
+- 🌎 [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-part-2)
+- 🌎 [A new way to measure developer productivity – from the creators of DORA and SPACE](https://newsletter.pragmaticengineer.com/p/developer-productivity-a-new-framework)
 
 ## 📂 Junior/Senior
 
